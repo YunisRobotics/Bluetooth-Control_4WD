@@ -15,8 +15,8 @@ This project demonstrates how to control a robot using a Bluetooth module and Ar
 - Power supply
 - Connecting wires
 
-![Project Screenshot]("C:\Users\allah\Downloads\robot_picture.jpg")
-![Project Screenshot]("C:\Users\allah\Downloads\hc-06_picture.jpg")
+![Project Screenshot](https://drive.google.com/file/d/1Y8e-7QF0NXypnNyNJqsXFscuF4oFe4gS/view?usp=drive_link)
+![Project Screenshot](https://drive.google.com/file/d/1srtTavu9XRLBECMrU1yrB8-c-3_LR9T1/view?usp=drive_link)
 ## Circuit Diagram
 - **Bluetooth Module**:
   - TX to Arduino pin 4
