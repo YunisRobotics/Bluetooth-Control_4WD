@@ -16,7 +16,6 @@ This project demonstrates how to control a robot using a Bluetooth module and Ar
 - Connecting wires
 
 ![Project Screenshot](https://drive.google.com/uc?id=1Y8e-7QF0NXypnNyNJqsXFscuF4oFe4gS)
-![Project Screenshot](https://drive.google.com/uc?id=1srtTavu9XRLBECMrU1yrB8-c-3_LR9T1)
 
 ## Circuit Diagram
 - **Bluetooth Module**:
